@@ -1,3 +1,4 @@
+//Write a program to convert a digit decimal to binary.
 #include<iostream>
 using namespace std;
 int main()
